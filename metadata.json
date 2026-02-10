@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Juros Compostos",
+  "description": "Uma aplicação web profissional para simular rendimentos com juros compostos, permitindo planejamento financeiro de longo prazo com visualização gráfica e detalhada da evolução do patrimônio.",
+  "requestFramePermissions": []
+}
